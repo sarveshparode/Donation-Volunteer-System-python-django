@@ -7,7 +7,7 @@ engagement to support various charitable initiatives effectively. The primary ob
 friendly platform that streamlined donation processing, enhanced volunteer coordination, and improved 
 communication with our supporters. 
 <h2>Technologies Used : </h2>
-Programming Languages: HTML/CSS, JavaScript, Python. 
+Programming Languages: HTML/CSS, JavaScript(basics), Python.<br> 
 Frameworks: Django 
 Database Management: MySQL 
 <h2>How to run this</h2>
